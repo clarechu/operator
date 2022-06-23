@@ -1,0 +1,6 @@
+apiVersion: app.demo.com/v1beta1
+kind: Student
+metadata:
+  name: student-sample
+spec:
+  # TODO(user): Add fields here
